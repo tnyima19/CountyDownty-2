@@ -13,6 +13,10 @@ The random letter generates 9 random letters
 	- if you get 9 letter word, you get 18 points. 
 	- Your scores are recorded on the main page. 
 
+
+https://user-images.githubusercontent.com/66368294/212526615-087e2b69-d12f-4f47-b75e-72d2ffb749a4.mov
+
+
 📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
 
 ---
